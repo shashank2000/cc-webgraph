@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Fairly simple 
 source "$(dirname $0)"/webgraph_config.sh
 
 set -e
